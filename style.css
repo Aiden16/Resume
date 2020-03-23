@@ -1,0 +1,41 @@
+.about img{
+  height: 190px;
+  width: 190px;
+  border-radius: 50%;
+  background-color: red;
+}
+
+
+.about img:hover {
+  height: 190px;
+  width: 190px;
+  border-radius: 30%;
+  color: gold;
+}
+h1{
+  color: #66BFBF;
+
+}
+h2{
+    color: #66BFBF;
+
+}
+h3{
+    color: #66BFBF;
+
+}
+hr{
+  border-style:dotted none none none;
+      background-color: white;
+      height: 0px;
+      width: 5%;
+      border-color: grey;
+      border-width: 3px;
+
+
+}
+
+body{
+  background-color:#EAF6F6;
+
+}
